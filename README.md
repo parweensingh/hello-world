@@ -1,2 +1,2 @@
 # hello-world
-This is just the start
+Hello There. I am exicted to be a part of the open source world.
